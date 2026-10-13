@@ -1,0 +1,99 @@
+{
+  "version": 2,
+  "template_version": "7ffa5ebee0a6d05c86c7",
+  "page_size": 20,
+  "site_id": "fe32cdbe122cc24619490753",
+  "owner": "kbxmsy",
+  "repo": "page-7f3d72f31826fd3a1fb8f74e",
+  "title": "clashmi下载",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "7f3d72f31826fd3a1fb8f74e",
+      "a": "clashmi下载",
+      "b": "",
+      "entity": "clashmi下载",
+      "brand": "clashmi下载",
+      "separator": "",
+      "path": "index.html",
+      "hash": "5f9ef9dd451b0699ac2bd4987977d0dd43dcc86edf48191bc4e11e18b03c15bd",
+      "content": {
+        "keyword1": "clashmi下载",
+        "keyword2": "",
+        "primary_entity": "clashmi下载",
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "clashmi下载 提供专业VPN梯子加速服务，基础版、旗舰版和团队版多种计划。立即下载官网客户端，享受高速流量支持和流媒体解锁。",
+          "AI_DESCRIPTION": "clashmi下载 提供专业VPN梯子加速服务，基础版、旗舰版和团队版多种计划。立即下载官网客户端，享受高速流量支持和流媒体解锁。"
+        },
+        "_brand_page": {
+          "version": 1,
+          "body": "\n\n\n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    \n    <style>\n        body { font-family: Arial, sans-serif; background: #faf0e6; color: #333; margin: 0; padding: 0; line-height: 1.6; }\n        main { max-width: 780px; margin: 40px auto; padding: 30px; background: white; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,0,0.1); }\n        h1 { color: #ff6f61; text-align: center; font-size: 2.1em; margin-bottom: 20px; }\n        h2 { color: #ff6f61; border-bottom: 3px solid #ff6f61; padding-bottom: 10px; margin: 30px 0 15px; }\n        .intro { text-align: center; font-size: 1.1em; margin-bottom: 30px; }\n        .step { background: #fff; padding: 20px; margin: 15px 0; border-radius: 8px; border-left: 6px solid #ff6f61; }\n        .step h3 { color: #333; margin-top: 0; }\n        .plans { display: flex; flex-wrap: wrap; gap: 20px; }\n        .plan { flex: 1; min-width: 250px; background: #fff; padding: 20px; border: 2px solid #ff6f61; border-radius: 8px; }\n        .plan.featured { border-color: #ff6f61; box-shadow: 0 0 0 3px rgba(255, 111, 97, 0.2); }\n        .plan h3 { margin: 0 0 10px; }\n        .price { font-size: 1.4em; color: #ff6f61; }\n        .annual { color: #666; }\n        ul { padding-left: 20px; }\n        details { margin: 15px 0; background: #f9f5f0; padding: 10px; border-radius: 6px; }\n        summary { font-weight: bold; cursor: pointer; color: #ff6f61; }\n        summary::-webkit-details-marker { display: none; }\n        footer { margin-top: 40px; text-align: center; }\n        .ad { background: #fff; padding: 15px; margin: 20px 0; border: 1px dashed #ff6f61; }\n    </style>\n\n\n    <main>\n        <a id=\"download\" href=\"#\"></a>\n        <h1>clashmi下载 官网</h1>\n        <div class=\"intro\">\n            <p>clashmi 是一款专为VPN梯子用户打造的网络加速器。无论您是个人用户还是企业团队，都能通过稳定、高速的节点连接，解锁全球内容并提升网络体验。</p>\n        </div>\n        <h2>使用场景</h2>\n        <p>clashmi 适用于多种网络需求，包括流媒体解锁、在线游戏加速、隐私保护和企业网络优化。支持多种设备，轻松适应您的生活和工作。</p>\n        <h2>配置流程</h2>\n        <div class=\"step\">\n            <h3>步骤 1：访问官网下载客户端</h3>\n            <p>请访问 <a href=\"#download\">clashmi 官网</a>，点击下载按钮获取最新版本客户端。提供多种系统支持。</p>\n        </div>\n        <div class=\"step\">\n            <h3>步骤 2：安装并启动</h3>\n            <p>下载完成后，双击运行安装程序，按照向导完成基本设置。</p>\n        </div>\n        <div class=\"step\">\n            <h3>步骤 3：订阅您的计划</h3>\n            <p>选择基础版、旗舰版或团队版，享受对应流量和功能支持。</p>\n        </div>\n        <div class=\"step\">\n            <h3>步骤 4：导入订阅链接</h3>\n            <p>在客户端中粘贴您的订阅链接，配置节点池。</p>\n        </div>\n        <div class=\"step\">\n            <h3>步骤 5：一键连接加速</h3>\n            <p>选择任意节点，点击连接，即可获得极速网络体验。</p>\n        </div>\n        <h2>订阅计划</h2>\n        <div class=\"plans\">\n            <div class=\"plan\">\n                <h3>基础版</h3>\n                <p class=\"price\">¥15/月</p>\n                <p class=\"annual\">按年付仅需 ¥150/年</p>\n                <ul>\n                    <li>每月 100GB 极速流量</li>\n                    <li>支持 3 台设备同时在线</li>\n                    <li>解锁基础流媒体</li>\n                    <li>普通线路节点池</li>\n                </ul>\n            </div>\n            <div class=\"plan featured\">\n                <h3>旗舰版</h3>\n                <p class=\"price\">¥35/月</p>\n                <p class=\"annual\">按年付仅需 ¥350/年</p>\n                <ul>\n                    <li>每月 300GB 极速流量</li>\n                    <li>支持 5 台设备同时在线</li>\n                    <li>全节点原生流媒体解锁</li>\n                    <li>IPLC 专线游戏加速优化</li>\n                    <li>7x24 优先工单支持</li>\n                </ul>\n            </div>\n            <div class=\"plan\">\n                <h3>团队版</h3>\n                <p class=\"price\">¥85/月</p>\n                <p class=\"annual\">按年付仅需 ¥850/年</p>\n                <ul>\n                    <li>每月 1000GB 极速流量</li>\n                    <li>支持 20 台设备同时在线</li>\n                    <li>VIP 专属高带宽节点</li>\n                    <li>支持企业定制路由</li>\n                    <li>专属客户经理服务</li>\n                </ul>\n            </div>\n        </div>\n        <h2>常见问题</h2>\n        <details>\n            <summary>clashmi 如何下载？</summary>\n            <p>非常简单，您只需访问 clashmi 官网，点击下载按钮，即可获取最新稳定版客户端。支持 Windows、Mac、iOS 和 Android 平台。</p>\n        </details>\n        <details>\n            <summary>clashmi 支持哪些设备？</summary>\n            <p>clashmi 客户端支持多平台，包括桌面端和移动端，满足不同使用场景的需求。</p>\n        </details>\n        <details>\n            <summary>基础版和旗舰版有什么区别？</summary>\n            <p>基础版适合个人使用，提供基础流量和节点；旗舰版提供更多流量、专线优化和优先支持，适合重度用户。</p>\n        </details>\n        <details>\n            <summary>如何获取客服支持？</summary>\n            <p>用户可通过官网提交工单，或享受 7x24 在线客服服务，快速解决使用问题。</p>\n        </details>\n        <details>\n            <summary>clashmi 的退款政策如何？</summary>\n            <p>我们提供 30 天无理由退款服务，详情请查看官网条款或联系客服。</p>\n        </details>\n        <details>\n            <summary>clashmi 的节点速度如何？</summary>\n            <p>所有节点均经过优化，具备高速传输能力，支持全球加速，满足日常使用和娱乐需求。</p>\n        </details>\n        <div class=\"ad\">\n            <p>广告：合作推广 - 查看更多加速方案</p>\n            <a href=\"#plans\">立即了解更多</a>\n        </div>\n        <footer>\n            <p>友情链接：<a href=\"#plans\">订阅计划</a> | <a href=\"#download\">客户端下载</a></p>\n            <p>© 2024 clashmi 所有权利保留</p>\n        </footer>\n    <section><h2>套餐</h2>{{PLANS_HTML}}</section><section><h2>客户端</h2>{{CLIENTS_HTML}}</section></main>\n\n",
+          "hash": "6f9c0b208dab69dba52f33909099115437234591c90232613acbc85245d38ddc",
+          "seo": {
+            "title": "clashmi下载 | 高效VPN梯子网络加速器 官网下载",
+            "keywords": "clashmi下载,VPN梯子,加速器,客户端下载,clashmi官网,网络加速",
+            "description": "clashmi下载 提供专业VPN梯子加速服务，基础版、旗舰版和团队版多种计划。立即下载官网客户端，享受高速流量支持和流媒体解锁。"
+          },
+          "provider": "grok"
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "snivljj.cn",
+    "host": "p-ee72131c4b.snivljj.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "0478c3cc5840a1e843fb381f94c1e4a933edc2901e39136a9406d9d076d2fe89",
+    "sitemap.xml": "001cb5d7bb718a32e06e907513ddb20f6d240ccb6a3be55c333d8498422d7e33",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6857944e81fd07201c1d9d929e833307194d35951b45ccefab1a6f5fb325582b",
+    "robots.txt": "db52a358aa6a7d21eba0fc491fc69bcb1383b671f059d4069ae017a5301874f7",
+    "2140d1f029ba597e14148506245c9595.txt": "93e45d426d83ef848234708b26c4a06ee90aaa0d010c4022bef40026fb38fb02"
+  },
+  "revision": "50f26ea350802bbf9b69bbf6f1928517c6edcb579e0824b68991d7dfe7a64071"
+}
